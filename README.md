@@ -85,6 +85,11 @@ You can easily modify:
 
 ---
 
+Screenshot:
+<img width="989" height="759" alt="image" src="https://github.com/user-attachments/assets/b9a028bf-d1d9-4e3f-8b0c-e9d25dd47ae3" />
+
+---
+
 ## 📜 License
 
 MIT License 📄
